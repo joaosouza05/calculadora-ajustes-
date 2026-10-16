@@ -1,1 +1,2 @@
 # calculadora-ajustes-
+Criei essa calculadora para praticar HTML, CSS e JavaScript. Em outro repositório, fiz a mesma calculadora, mas os botões não estavam funcionando quando eu clicava. Neste projeto, fiz alguns ajustes e corrigi os problemas para que os cliques funcionassem corretamente. Com a ajuda de pesquisas e algumas informações da IA, consegui entender melhor os erros e fazer as correções. Foi uma forma de praticar e aprender mais sobre programação.
